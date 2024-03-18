@@ -1,0 +1,8 @@
+artifacts
+cache
+node_modules
+typechain
+.env.dev
+.env.prod
+.DS_Store
+yarn.lock
